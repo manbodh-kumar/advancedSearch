@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "va-demo-1-client-side-solution",
+    "id": "2a1b49a9-245f-4c0b-9244-e30736a60134",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/va-demo-1.sppkg"
+  }
+}
